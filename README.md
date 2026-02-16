@@ -1,1 +1,1 @@
-demo-https://github.com/kartheeswar17/HTML-Profile-Page/blob/main/Responsive%20Photo%20Gallery.html
+[demo-https://github.com/kartheeswar17/HTML-Profile-Page/blob/main/Responsive%20Photo%20Gallery.html](https://github.com/kartheeswar17/HTML-Profile-Page/blob/main/personal.html)
